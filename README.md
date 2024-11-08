@@ -1,3 +1,3 @@
 # DSC180A-Methodology-4
 
-Jennifer Hung
+Jennifer Hung and Sahana Narayanan
