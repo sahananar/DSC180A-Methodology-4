@@ -11,7 +11,7 @@ index f31cca4..0dcf9a8 100644
 @@ -1,3 +1,3 @@
  # DSC180A-Methodology-4
  
--Jennifer Hung
+-Jennifer Hung sanarayanan@ucsd.edu
 +Jennifer Hung  and  Sahana Narayanan
 diff --git a/lec02.ipynb b/lec02.ipynb
 index 471ce86..f584ed9 100644
